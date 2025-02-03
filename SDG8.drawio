@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_jgw5qCEA7fpqc9eObV-68" value="Applications" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="180" height="150" as="geometry" />
+          <mxGeometry x="420" y="460" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P_jgw5qCEA7fpqc9eObV-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="P_jgw5qCEA7fpqc9eObV-68">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -305,15 +305,13 @@
             <mxPoint x="370" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_jgw5qCEA7fpqc9eObV-86" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1.039;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.044;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P_jgw5qCEA7fpqc9eObV-41" target="P_jgw5qCEA7fpqc9eObV-72">
+        <mxCell id="P_jgw5qCEA7fpqc9eObV-87" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P_jgw5qCEA7fpqc9eObV-72">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="650" y="420" as="sourcePoint" />
-            <mxPoint x="750" y="320" as="targetPoint" />
+            <mxPoint x="620" y="160" as="sourcePoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="430" />
               <mxPoint x="690" y="250" />
-              <mxPoint x="700" y="430" />
-              <mxPoint x="690" y="410" />
+              <mxPoint x="690" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
